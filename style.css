@@ -1,12 +1,13 @@
 body
 {
   font-family: 'Akaya Telivigala', cursive;
-  background: #E2E8DD;
+  background: gray
+    ;
 }
 
 .header_div
   {
-  background: #95A3A4;
+  background: gray;
   color: red; 
   }
 
