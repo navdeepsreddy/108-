@@ -28,7 +28,7 @@ body
   
   .copy_right_footer {
    position: fixed;
-   color: #6c757d;
+   color: red;
    bottom: 0;
    width: 100%;
    font-size: 18px;
